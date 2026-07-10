@@ -12,7 +12,9 @@ The goal of this project is to accurately predict the presence of heart disease 
 
 ---
 # Tree Image
-[Image](https://github.com/Butkii025/demo/blob/main/heart_tree.png)
+
+<img width="4710" height="2433" alt="heart_tree" src="https://github.com/user-attachments/assets/616778d8-4b28-40c6-8b46-cb4b8d8480d6" />
+
 
 ---
 ## 🛠️ What We Did
