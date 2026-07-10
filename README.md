@@ -11,7 +11,10 @@ The goal of this project is to accurately predict the presence of heart disease 
 * **Key Inputs:** Age, sex, chest pain type (`cp`), resting blood pressure (`trestbps`), cholesterol (`chol`), max heart rate achieved (`thalach`), and more.
 
 ---
+# Tree Image
+Image(/https://github.com/Butkii025/demo/blob/main/heart_tree.png)
 
+---
 ## 🛠️ What We Did
 
 ### 1. Trained and Visualized a Baseline Decision Tree
